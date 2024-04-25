@@ -1,0 +1,12 @@
+.fa-facebook-f:before {
+  content: "\f39e";
+}
+.fa-github:before {
+  content: "\f09b";
+}
+.fa-twitter:before {
+  content: "\f099";
+}
+.fa-instagram:before {
+  content: "\f16d";
+}
